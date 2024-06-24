@@ -1,0 +1,11 @@
+
+.header-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: darkmagenta;
+    padding: 3px;
+    height: 100px;
+    font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
