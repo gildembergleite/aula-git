@@ -11,10 +11,15 @@
 }
 
 .digital-section h2 {
-    color: rgb(207, 30, 234);
+    color: rgb(170, 7, 196);
     border-block-end: 5px solid;
     width: 143px;
-
-
-
 }
+
+.digital-section p {
+    margin: 15px 100px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: rgba(9, 9, 9, 0.816);
+}
+
